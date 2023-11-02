@@ -292,7 +292,6 @@
         <Measure dwd:design-time-name="cbcbe516-b75d-4962-bdcf-9a1bc9a34004">
           <ID>Numero Venta</ID>
           <Name>Numero Venta</Name>
-          <AggregateFunction>None</AggregateFunction>
           <Source dwd:design-time-name="2b921fdc-0ff9-4398-8d0d-5c603ba9693e">
             <DataType>Integer</DataType>
             <Source xsi:type="ColumnBinding" dwd:design-time-name="e03fa1f6-efb9-4e92-a4da-50446d0d7e22">
